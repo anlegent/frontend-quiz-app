@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bgc {
+  background-color: #f4f6fa;
+}
+
+.font {
+  font-family: "Rubik", sans-serif;
+}
+
+.purple {
+  color: #a729f5;
+}
+
+.dark-navy {
+  color: #313e51;
+}
+
+.navy {
+  color: #3b4d66;
+}
+
+.grey-navy {
+  color: #626c7f;
+}
+
+.light-bluish {
+  color: #abc1e1;
+}
+
+.light-grey {
+  color: #f4f6fa;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.green {
+  color: #26d782;
+}
+
+.red {
+  color: #ee5454;
+}
+
+.display {
+  font-weight: 500px;
+  font-size: 144px;
+  line-height: 144px;
+}
+
+.headingLb {
+  font-weight: 500px;
+  font-size: 64px;
+  line-height: 64px;
+}
+
+.headingLr {
+  font-weight: 300px;
+  font-size: 64px;
+  line-height: 64px;
+}
+
+.headingM {
+  font-weight: 500px;
+  font-size: 36px;
+  line-height: 36px;
+}
+
+.headingS {
+  font-weight: 500px;
+  font-size: 28px;
+  line-height: 28px;
+}
+
+.bodyM {
+  font-weight: 400px;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.bodyS {
+  font-weight: 400px;
+  font-size: 20px;
+  line-height: 30px;
+}
